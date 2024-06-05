@@ -23,5 +23,6 @@ The game is made by using basic front-end technologies like HTML,CSS,JavaScript.
 
 ## Demo
 
-Insert gif or link to demo
+![ezgif com-video-to-gif-converter](https://github.com/feihCaka/SimonGame/assets/106744297/ef089b28-ad4f-4aab-aa8a-66df49a29b40)
+
 
