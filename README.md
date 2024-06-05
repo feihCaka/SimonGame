@@ -18,7 +18,7 @@ The game is made by using basic front-end technologies like HTML,CSS,JavaScript.
 
 ## Authors
 
-- [@feihcaka](https://www.github.com/@feihCaka)
+- [@feihcaka](https://www.github.com/feihCaka)
 
 
 ## Demo
